@@ -17,8 +17,7 @@ See HOWTO for conversion instructions.
 book details
 ============
 
-Title: The United States of Air
-
+Title: *The United States of Air*
 Genre: Political Satire
 
 Word Count: 80,000
