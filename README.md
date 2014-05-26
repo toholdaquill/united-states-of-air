@@ -17,7 +17,7 @@ book details
 
 Title: The United States of Air
 
-Genre: Satire
+Genre: Political Satire
 
 Word Count: 80,000
 
