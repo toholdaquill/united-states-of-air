@@ -28,6 +28,10 @@ book details
 
 **Book Description:**
 
+
+**The National Sewer Agency is spying on people's toilets, looking for
+food terrorists...**
+
 Food Enforcement Agent Jason Frolick believes in America. He believes
 in eating air. He struggles to get the food monkey off his back. As 
 part of the Global War on Fat, his job is to put food terrorists in Fat
