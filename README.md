@@ -20,13 +20,13 @@ See HOWTO for conversion instructions.
 book details
 ============
 
-Title: *The United States of Air*
+**Title:** *The United States of Air*
 
-Genre: Political Satire
+**Genre:** Political Satire
 
-Word Count: 80,000
+**Word Count:** 80,000
 
-Book Description:
+**Book Description:**
 
 Food Enforcement Agent Jason Frolick believes in America. He believes
 in eating air. He struggles to get the food monkey off his back. As 
