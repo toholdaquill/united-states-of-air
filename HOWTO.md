@@ -8,12 +8,12 @@ master file. Then download Calibre:
   
 Run:
 
-    ebook-convert the-united-states-of-air.html the-united-states-of-air.epub /
+    ebook-convert the-united-states-of-air.html the-united-states-of-air.epub \
     --cover the-united-states-of-air-cover.jpg
   
 or if you're a Kindle user:
 
-    ebook-convert the-united-states-of-air.html the-united-states-of-air.mobi /
+    ebook-convert the-united-states-of-air.html the-united-states-of-air.mobi \
     --cover the-united-states-of-air-cover.jpg
     
 Calibre's full command-line interface is documented here:
