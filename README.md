@@ -5,15 +5,6 @@ united-states-of-air
 
 Welcome to my series of GitHub novels.
 
-As a ex-hacker turned novelist, I license all my work Creative Commons.
-So why not release my work on GitHub?
-
-If you like the book, hit me up with some Bitcoin: 
-
-    1CvLaXqBafN9y3SkxJtL1yi5ragZvNVVTJ
-
-And if you're broke? Tell a friend. Or even better, leave a review. :)
-
 See HOWTO for conversion instructions.
 
 
